@@ -1,11 +1,11 @@
-About dvc-oss
-=============
+About dvc-oss-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/dvc-oss-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/iterative/dvc-oss
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/dvc-oss-feedstock/blob/main/LICENSE.txt)
 
 Summary: Alibaba OSS plugin for DVC
 
